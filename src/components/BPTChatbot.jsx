@@ -130,7 +130,7 @@ const SKB = [
   { k: ["sertifikat", "sertifikasi", "certificate", "lulus"], a: "Peserta yang lulus mendapat:\n\n• 📜 Sertifikat dari Kementerian Kominfo\n• 🏆 Sertifikasi industri (AWS, Google, Microsoft, Cisco, Meta)\n\nSyarat: kehadiran minimal **80%** dan selesaikan tugas akhir." },
   { k: ["mitra", "partner", "kerjasama"], a: "**Mitra BPT Komdigi:**\n\n**Global:** AWS, Google, Microsoft, Cisco, Oracle, IBM, Meta, Huawei\n**Nasional:** Telkom, Gojek, Tokopedia, BCA, Mandiri, PLN\n**Akademik:** 150+ universitas di Indonesia" },
   {
-    k: ["halo", "hi", "hello", "p", "halo!", "pagi", "siang", "sore"],
+    k: ["halo", "hi", "hello", "halo!", "pagi", "siang", "sore"],
     a: "Halo! Saya **Asisten Resmi BPT Komdigi** 👋\n\nSaya dapat menjawab pertanyaan seputar program Digital Talent Scholarship, pendaftaran, dan layanan BPT Komdigi.\n\nSilakan pilih topik atau ketik pertanyaan Anda:"
   },
 ];
